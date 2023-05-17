@@ -21,4 +21,11 @@ Used SDKs: FacebookSDK, GameAnalytics.
 
 ---
 
-Preview: (tbd)
+Preview: 
+
+https://youtu.be/4NcBfHhvwEs
+
+
+![image_001_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/b45bb015-63a3-4018-ab65-f02c23adeba7)
+![image_002_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/2a45478a-36c8-4953-adef-65fd5f2a1a0f)
+![image_003_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/fe8dba79-c6e8-4d30-9c85-859f096a1a51)
