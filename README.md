@@ -1,9 +1,9 @@
 # Sapper-Simulator--code-
  ## code-only
 
-Проект над которым я работал в [Black Games](https://github.com/blackgames-space) (https://blackgames.space/).
+Проект, над которым я работал в [Black Games](https://github.com/blackgames-space) (https://blackgames.space/).
 
-Особенность проекта: использование стесил буффера. Основной шшейдер - [изменённый TCP2 Hybrid 2 шейдер](Rendering/TCP2%20Hybrid%20Shader%202%20w%20Stencil.tcp2shader) и [шейдер для маски](Rendering/Stencil%20Mask%20Shader.shader)
+Особенность проекта: использование стенсил буффера. Основной шшейдер - [изменённый TCP2 Hybrid 2 шейдер](Rendering/TCP2%20Hybrid%20Shader%202%20w%20Stencil.tcp2shader) и [шейдер для маски](Rendering/Stencil%20Mask%20Shader.shader)
 
 Геймдизайн и визуальный дизайн от людей из [Black Games](https://github.com/blackgames-space) (https://blackgames.space/), код и разработка мои.
 
@@ -26,6 +26,6 @@ Preview:
 https://youtu.be/4NcBfHhvwEs
 
 
-![image_001_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/b45bb015-63a3-4018-ab65-f02c23adeba7)
-![image_002_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/2a45478a-36c8-4953-adef-65fd5f2a1a0f)
-![image_003_0000](https://github.com/NikishinDA/Sapper-Simulator--code-/assets/60629320/fe8dba79-c6e8-4d30-9c85-859f096a1a51)
+![image_001_0000](Preview/image_001_0000.jpg)
+![image_002_0000](Preview/image_002_0000.jpg)
+![image_003_0000](Preview/image_003_0000.jpg)
